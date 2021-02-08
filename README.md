@@ -18,7 +18,7 @@ As a TPM, we would like for you to review The Problem below and think about how 
 
 ## The Problem
 
-Our San Francisco team loves to eat. They are also a team that loves variety, so they also like to discover new places to eat.
+Our team loves to eat. They are also a team that loves variety, so they also like to discover new places to eat.
 
 In fact, we have a particular affection for food trucks. One of the great things about Food Trucks in San Francisco is that the city releases a list of them as open data.
 
